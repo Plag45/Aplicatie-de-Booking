@@ -1,0 +1,5 @@
+C:\Users\CVanghe\Desktop\Proiect faculta\Proiect faculta\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\CVanghe\Desktop\Proiect faculta\Proiect faculta\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\CVanghe\Desktop\Proiect faculta\Proiect faculta\obj\Debug\net6.0-windows\Proiect faculta_MarkupCompile.cache
+C:\Users\CVanghe\Desktop\Proiect faculta\Proiect faculta\obj\Debug\net6.0-windows\Proiect faculta_MarkupCompile.lref
+C:\Users\CVanghe\Desktop\Proiect faculta\Proiect faculta\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
