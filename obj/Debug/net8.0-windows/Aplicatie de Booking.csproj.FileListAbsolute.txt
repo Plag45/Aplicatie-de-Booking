@@ -1,0 +1,27 @@
+C:\d\Facultate\App-V\Aplicatie de Booking\bin\Debug\net8.0-windows\Aplicatie de Booking.exe
+C:\d\Facultate\App-V\Aplicatie de Booking\bin\Debug\net8.0-windows\Aplicatie de Booking.deps.json
+C:\d\Facultate\App-V\Aplicatie de Booking\bin\Debug\net8.0-windows\Aplicatie de Booking.runtimeconfig.json
+C:\d\Facultate\App-V\Aplicatie de Booking\bin\Debug\net8.0-windows\Aplicatie de Booking.dll
+C:\d\Facultate\App-V\Aplicatie de Booking\bin\Debug\net8.0-windows\Aplicatie de Booking.pdb
+C:\d\Facultate\App-V\Aplicatie de Booking\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\d\Facultate\App-V\Aplicatie de Booking\obj\Debug\net8.0-windows\App.g.cs
+C:\d\Facultate\App-V\Aplicatie de Booking\obj\Debug\net8.0-windows\Aplicatie de Booking_MarkupCompile.cache
+C:\d\Facultate\App-V\Aplicatie de Booking\obj\Debug\net8.0-windows\Aplicatie de Booking_MarkupCompile.lref
+C:\d\Facultate\App-V\Aplicatie de Booking\obj\Debug\net8.0-windows\MainWindow.baml
+C:\d\Facultate\App-V\Aplicatie de Booking\obj\Debug\net8.0-windows\Aplicatie de Booking.g.resources
+C:\d\Facultate\App-V\Aplicatie de Booking\obj\Debug\net8.0-windows\Aplicatie de Booking.GeneratedMSBuildEditorConfig.editorconfig
+C:\d\Facultate\App-V\Aplicatie de Booking\obj\Debug\net8.0-windows\Aplicatie de Booking.AssemblyInfoInputs.cache
+C:\d\Facultate\App-V\Aplicatie de Booking\obj\Debug\net8.0-windows\Aplicatie de Booking.AssemblyInfo.cs
+C:\d\Facultate\App-V\Aplicatie de Booking\obj\Debug\net8.0-windows\Aplicatie de Booking.csproj.CoreCompileInputs.cache
+C:\d\Facultate\App-V\Aplicatie de Booking\obj\Debug\net8.0-windows\Aplicatie de Booking.dll
+C:\d\Facultate\App-V\Aplicatie de Booking\obj\Debug\net8.0-windows\refint\Aplicatie de Booking.dll
+C:\d\Facultate\App-V\Aplicatie de Booking\obj\Debug\net8.0-windows\Aplicatie de Booking.pdb
+C:\d\Facultate\App-V\Aplicatie de Booking\obj\Debug\net8.0-windows\Aplicatie de Booking.genruntimeconfig.cache
+C:\d\Facultate\App-V\Aplicatie de Booking\obj\Debug\net8.0-windows\ref\Aplicatie de Booking.dll
+C:\d\Facultate\App-V\Aplicatie de Booking\obj\Debug\net8.0-windows\Views\MakeRezervationView.g.cs
+C:\d\Facultate\App-V\Aplicatie de Booking\obj\Debug\net8.0-windows\Views\RezervationListingView.g.cs
+C:\d\Facultate\App-V\Aplicatie de Booking\obj\Debug\net8.0-windows\Views\MakeRezervationView.baml
+C:\d\Facultate\App-V\Aplicatie de Booking\obj\Debug\net8.0-windows\Views\RezervationListingView.baml
+C:\d\Facultate\App-V\Aplicatie de Booking\obj\Debug\net8.0-windows\Views\LoginView.g.cs
+C:\d\Facultate\App-V\Aplicatie de Booking\obj\Debug\net8.0-windows\Views\LoginView.baml
+C:\d\Facultate\App-V\Aplicatie de Booking\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
