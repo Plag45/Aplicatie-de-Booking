@@ -1,0 +1,12 @@
+﻿<Application
+    x:Class="Aplicatie_de_Booking.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="clr-namespace:Aplicatie_de_Booking"
+    xmlns:views="clr-namespace:Aplicatie_de_Booking.Views"
+    StartupUri="Views/LoginView.xaml">
+    <Application.Resources>
+        <ResourceDictionary Source="/Style/UIColors.xaml" />
+    </Application.Resources>
+
+</Application>
