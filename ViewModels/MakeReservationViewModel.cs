@@ -1,5 +1,6 @@
 ﻿using Aplicatie_de_Booking.Commands;
 using Aplicatie_de_Booking.Stores;
+using Aplicatie_de_Booking.Services;
 using System;
 using System.Collections;
 using System.Collections.Generic;
@@ -172,8 +173,11 @@ namespace Aplicatie_de_Booking.ViewModels
 
         public event EventHandler<DataErrorsChangedEventArgs> ErrorsChanged;
 
-        public MakeReservationViewModel(HotelStore hotelStore)
+        public MakeReservationViewModel(HotelStore hotelStore, NavigationService<ReservationListingViewModel> reservationViewNavigationService)
         {
+            SubmitCommand = new MakeReservationCommand(this, hotelStore, reservationViewNavigationService);
+            CancelCommand = new NavigateCommand<ReservationListingViewModel>(reservationViewNavigationService);
+
             _propertyNameToErrorsDictionary = new Dictionary<string, List<string>>();
         }
 
