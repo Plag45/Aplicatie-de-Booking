@@ -1,6 +1,6 @@
 ﻿namespace Aplicatie_de_Booking.Models
 {
-    internal class Hotel
+    public class Hotel
     {
         private readonly ReservationBook _reservationBook;
 
@@ -17,7 +17,7 @@
             return _reservationBook.GetReservationsForUser(username);
         }
 
-        public void MakeReservations(Reservation reservation)
+        public async Task MakeReservation(Reservation reservation)
         {
             _reservationBook.AddReservation(reservation);
 

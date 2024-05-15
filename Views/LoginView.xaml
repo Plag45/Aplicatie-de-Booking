@@ -25,12 +25,12 @@
     </Window.Visibility>
     <Border CornerRadius="12">
         <Border.Background>
-            <ImageBrush ImageSource="C:\d\Facultate\App-V\Aplicatie de Booking\Images\logo.png" Stretch="None" />
+            <ImageBrush ImageSource="C:\prod\Aplicatie-de-Booking\Aplicatie-de-Booking1\Images\logo.png" Stretch="None" />
         </Border.Background>
 
         <Border
             BorderThickness="2"
-            CornerRadius="10"
+            CornerRadius="0"
             Opacity="0.95">
 
             <Border.BorderBrush>
@@ -200,7 +200,7 @@
                         <TextBox.Background>
                             <ImageBrush
                                 AlignmentX="Left"
-                                ImageSource="C:\d\Facultate\App-V\Aplicatie de Booking\Images\user-icon.png"
+                                ImageSource="C:\prod\Aplicatie-de-Booking\Aplicatie-de-Booking1\Images\user-icon.png"
                                 Stretch="None" />
                         </TextBox.Background>
                     </TextBox>
@@ -213,7 +213,20 @@
                         Foreground="DarkGray"
                         Text="Password" />
 
-
+                    <PasswordBox
+                         x:Name="txtPassword"
+                         Margin="0,5,0,0"
+                         Padding="20,0,0,0"
+                         VerticalContentAlignment="Center"
+                         BorderBrush="DarkGray"
+                         BorderThickness="0,0,0,2"
+                         CaretBrush="LightGray"
+                         FontFamily="Montserrat"
+                         FontSize="13"
+                         FontWeight="Medium"
+                         Foreground="White"
+                        Background="Transparent">
+                    </PasswordBox>
 
                     <TextBlock
                         Margin="0,10,0,0"
@@ -260,7 +273,6 @@
                     </Button>
 
                     <StackPanel
-                        Margin="0,15,0,0"
                         HorizontalAlignment="Center"
                         Orientation="Horizontal">
 
@@ -279,6 +291,45 @@
                             FontWeight="Medium"
                             Foreground="White"
                             Text="Reset" />
+                    </StackPanel>
+                    
+                    <StackPanel
+                       HorizontalAlignment="Center"
+                       Orientation="Horizontal">
+                        <TextBlock
+                             FontFamily="Montserrat"
+                             FontSize="12"
+                             FontWeight="Medium"
+                             Foreground="DarkGray"
+                             Text="You don't have an account?" />
+                        
+                        <TextBlock
+                                 Margin="8,0,0,0"
+                                 Cursor="Hand"
+                                 FontFamily="Montserrat"
+                                 FontSize="12"
+                                 FontWeight="Medium"
+                                 Foreground="White">
+                             <Button x:Name="CreatOne"
+                                     Command="{Binding RegisterCommand}"
+                                     Content="Create one"
+                                     Cursor="Hand"
+                                     FontFamily="Montserrat"
+                                     FontSize="10"
+                                     Foreground="White" Click="CreatOne_Click">
+
+                                 <Button.Style>
+                                     <Style TargetType="Button">
+                                      <Setter Property="Background" Value="Transparent" />
+                                      <Style.Triggers>
+                                            <Trigger Property="IsMouseOver" Value="True">
+                                              <Setter Property="Background" Value="#7E82FC" />
+                                            </Trigger>
+                                      </Style.Triggers>
+                                    </Style>
+                                 </Button.Style>
+                             </Button>
+                        </TextBlock>
 
                     </StackPanel>
 

@@ -13,14 +13,14 @@ namespace Aplicatie_de_Booking
         {
             Hotel hotel = new Hotel("Steaua Albastra");
 
-            hotel.MakeReservations(new Reservation
+            _ = hotel.MakeReservation(new Reservation
                 (
                 new Room_ID(1, 3),
                 new DateTime(2023, 3, 20),
                 new DateTime(2023, 4, 3),
                 "Mirel"
                 ));
-            hotel.MakeReservations(new Reservation
+            _ = hotel.MakeReservation(new Reservation
                 (
                 new Room_ID(1, 3),
                 new DateTime(2023, 5, 20),

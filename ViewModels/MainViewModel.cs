@@ -1,4 +1,5 @@
 ﻿using Aplicatie_de_Booking.Models;
+using Aplicatie_de_Booking.Stores;
 
 namespace Aplicatie_de_Booking.ViewModels
 {

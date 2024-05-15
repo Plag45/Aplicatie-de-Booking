@@ -1,5 +1,6 @@
 ﻿using System.Windows;
 using System.Windows.Input;
+using System.Windows.Navigation;
 
 
 namespace Aplicatie_de_Booking.Views
@@ -25,7 +26,7 @@ namespace Aplicatie_de_Booking.Views
                 DragMove();
         }
 
-        private void btnMinimize_Click(object sender, RoutedEventArgs e)
+        public void btnMinimize_Click(object sender, RoutedEventArgs e)
         {
             WindowState = WindowState.Minimized;
         }
@@ -35,6 +36,10 @@ namespace Aplicatie_de_Booking.Views
             Application.Current.Shutdown();
         }
 
-        private void btnLogin_Click(object sender, RoutedEventArgs e) { }
+        private void CreatOne_Click(object sender, RoutedEventArgs e)
+        {
+            RegistrationPage _registration = new RegistrationPage();
+            _registration.ShowDialog();
+        }
     }
 }
