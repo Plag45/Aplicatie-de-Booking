@@ -3,10 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows.Input;
 
 namespace Aplicatie_de_Booking.Commands
 {
-    public abstract class CommandBase
+    public abstract class CommandBase: ICommand
     {
         public event EventHandler CanExecuteChanged;
 

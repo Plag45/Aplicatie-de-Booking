@@ -1,5 +1,6 @@
 ﻿using Aplicatie_de_Booking.Exceptions;
 using Aplicatie_de_Booking.Models;
+using Aplicatie_de_Booking.Services;
 using Aplicatie_de_Booking.Stores;
 using Aplicatie_de_Booking.ViewModels;
 using System;
@@ -16,14 +17,25 @@ namespace Aplicatie_de_Booking.Commands
     {
         private readonly MakeReservationViewModel _makeReservationViewModel;
         private readonly HotelStore _hotelStore;
+        private MakeReservationViewModel makeReservationViewModel;
+        private HotelStore hotelStore;
+        private NavigationService<ReservationListingViewModel> reservationViewNavigationService;
 
         public MakeReservationCommand(MakeReservationViewModel makeReservationViewModel,
-            HotelStore hotelStore)
+            HotelStore hotelStore,
+            System.Windows.Navigation.NavigationService reservationViewNavigationService)
         {
             _makeReservationViewModel = makeReservationViewModel;
             _hotelStore = hotelStore;
 
             _makeReservationViewModel.PropertyChanged += OnViewModelPropertyChanged;
+        }
+
+        public MakeReservationCommand(MakeReservationViewModel makeReservationViewModel, HotelStore hotelStore, NavigationService<ReservationListingViewModel> reservationViewNavigationService)
+        {
+            this.makeReservationViewModel = makeReservationViewModel;
+            this.hotelStore = hotelStore;
+            this.reservationViewNavigationService = reservationViewNavigationService;
         }
 
         public override bool CanExecute(object parameter)
