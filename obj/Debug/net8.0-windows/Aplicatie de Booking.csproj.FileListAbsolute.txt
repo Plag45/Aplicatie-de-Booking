@@ -25,3 +25,87 @@ C:\d\Facultate\App-V\Aplicatie de Booking\obj\Debug\net8.0-windows\Views\Rezerva
 C:\d\Facultate\App-V\Aplicatie de Booking\obj\Debug\net8.0-windows\Views\LoginView.g.cs
 C:\d\Facultate\App-V\Aplicatie de Booking\obj\Debug\net8.0-windows\Views\LoginView.baml
 C:\d\Facultate\App-V\Aplicatie de Booking\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\nflor\Desktop\Aplicatie-de-Booking2\obj\Debug\net8.0-windows\Style\UIColors.baml
+C:\Users\nflor\Desktop\Aplicatie-de-Booking2\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\nflor\Desktop\Aplicatie-de-Booking2\obj\Debug\net8.0-windows\Views\LoginView.g.cs
+C:\Users\nflor\Desktop\Aplicatie-de-Booking2\obj\Debug\net8.0-windows\Views\MainView.g.cs
+C:\Users\nflor\Desktop\Aplicatie-de-Booking2\obj\Debug\net8.0-windows\Views\MakeReservation.g.cs
+C:\Users\nflor\Desktop\Aplicatie-de-Booking2\obj\Debug\net8.0-windows\Views\RegistrationPage.g.cs
+C:\Users\nflor\Desktop\Aplicatie-de-Booking2\obj\Debug\net8.0-windows\Views\RezervationListingView.g.cs
+C:\Users\nflor\Desktop\Aplicatie-de-Booking2\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\nflor\Desktop\Aplicatie-de-Booking2\obj\Debug\net8.0-windows\Aplicatie de Booking_MarkupCompile.cache
+C:\Users\nflor\Desktop\Aplicatie-de-Booking2\obj\Debug\net8.0-windows\Aplicatie de Booking_MarkupCompile.lref
+C:\Users\nflor\Desktop\Aplicatie-de-Booking2\obj\Debug\net8.0-windows\Aplicatie de Booking.dll
+C:\Users\nflor\Desktop\Aplicatie-de-Booking2\obj\Debug\net8.0-windows\refint\Aplicatie de Booking.dll
+C:\Users\nflor\Desktop\Aplicatie-de-Booking2\obj\Debug\net8.0-windows\Aplicatie de Booking.pdb
+C:\Users\nflor\Desktop\Aplicatie-de-Booking2\bin\Debug\net8.0-windows\Aplicatie de Booking.exe
+C:\Users\nflor\Desktop\Aplicatie-de-Booking2\bin\Debug\net8.0-windows\Aplicatie de Booking.deps.json
+C:\Users\nflor\Desktop\Aplicatie-de-Booking2\bin\Debug\net8.0-windows\Aplicatie de Booking.runtimeconfig.json
+C:\Users\nflor\Desktop\Aplicatie-de-Booking2\bin\Debug\net8.0-windows\Aplicatie de Booking.dll
+C:\Users\nflor\Desktop\Aplicatie-de-Booking2\bin\Debug\net8.0-windows\Aplicatie de Booking.pdb
+C:\Users\nflor\Desktop\Aplicatie-de-Booking2\bin\Debug\net8.0-windows\nunit.framework.dll
+C:\Users\nflor\Desktop\Aplicatie-de-Booking2\bin\Debug\net8.0-windows\nunit.framework.legacy.dll
+C:\Users\nflor\Desktop\Aplicatie-de-Booking2\obj\Debug\net8.0-windows\Aplicatie de Booking.csproj.AssemblyReference.cache
+C:\Users\nflor\Desktop\Aplicatie-de-Booking2\obj\Debug\net8.0-windows\App.baml
+C:\Users\nflor\Desktop\Aplicatie-de-Booking2\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\nflor\Desktop\Aplicatie-de-Booking2\obj\Debug\net8.0-windows\Views\LoginView.baml
+C:\Users\nflor\Desktop\Aplicatie-de-Booking2\obj\Debug\net8.0-windows\Views\MainView.baml
+C:\Users\nflor\Desktop\Aplicatie-de-Booking2\obj\Debug\net8.0-windows\Views\MakeReservation.baml
+C:\Users\nflor\Desktop\Aplicatie-de-Booking2\obj\Debug\net8.0-windows\Views\RegistrationPage.baml
+C:\Users\nflor\Desktop\Aplicatie-de-Booking2\obj\Debug\net8.0-windows\Views\RezervationListingView.baml
+C:\Users\nflor\Desktop\Aplicatie-de-Booking2\obj\Debug\net8.0-windows\Aplicatie de Booking.g.resources
+C:\Users\nflor\Desktop\Aplicatie-de-Booking2\obj\Debug\net8.0-windows\Aplicatie de Booking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nflor\Desktop\Aplicatie-de-Booking2\obj\Debug\net8.0-windows\Aplicatie de Booking.AssemblyInfoInputs.cache
+C:\Users\nflor\Desktop\Aplicatie-de-Booking2\obj\Debug\net8.0-windows\Aplicatie de Booking.AssemblyInfo.cs
+C:\Users\nflor\Desktop\Aplicatie-de-Booking2\obj\Debug\net8.0-windows\Aplicatie de Booking.csproj.CoreCompileInputs.cache
+C:\Users\nflor\Desktop\Aplicatie-de-Booking2\obj\Debug\net8.0-windows\Aplicatie de Booking.sourcelink.json
+C:\Users\nflor\Desktop\Aplicatie-de-Booking2\obj\Debug\net8.0-windows\Aplicati.BF831F80.Up2Date
+C:\Users\nflor\Desktop\Aplicatie-de-Booking2\obj\Debug\net8.0-windows\Aplicatie de Booking.genruntimeconfig.cache
+C:\Users\nflor\Desktop\Aplicatie-de-Booking2\obj\Debug\net8.0-windows\ref\Aplicatie de Booking.dll
+C:\Users\nflor\Desktop\Aplicatie-de-Booking2\obj\Debug\net8.0-windows\Style\Page-Standard.baml
+C:\Users\nflor\Desktop\Aplicatie-de-Booking2\obj\Debug\net8.0-windows\Style\ButtonStyles.baml
+C:\Users\nflor\Desktop\Aplicatie-de-Booking2\bin\Debug\net8.0-windows\FontAwesome.Sharp.dll
+C:\Users\nflor\Desktop\Aplicatie-de-Booking2\bin\Debug\net8.0-windows\FontAwesome.WPF.dll
+C:\Users\nflor\Desktop\Aplicatie-de-Booking2\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\nflor\Desktop\Aplicatie-de-Booking2\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\nflor\Desktop\Aplicatie-de-Booking2\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nflor\Desktop\Aplicatie-de-Booking2\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\nflor\Desktop\Aplicatie-de-Booking2\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\nflor\Desktop\Aplicatie-de-Booking2\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\nflor\Desktop\Aplicatie-de-Booking2\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\nflor\Desktop\Aplicatie-de-Booking2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\nflor\Desktop\Aplicatie-de-Booking2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nflor\Desktop\Aplicatie-de-Booking2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\nflor\Desktop\Aplicatie-de-Booking2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nflor\Desktop\Aplicatie-de-Booking2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nflor\Desktop\Aplicatie-de-Booking2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nflor\Desktop\Aplicatie-de-Booking2\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\nflor\Desktop\Aplicatie-de-Booking2\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\nflor\Desktop\Aplicatie-de-Booking2\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\nflor\Desktop\Aplicatie-de-Booking2\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\nflor\Desktop\Aplicatie-de-Booking2\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nflor\Desktop\Aplicatie-de-Booking2\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\nflor\Desktop\Aplicatie-de-Booking2\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\nflor\Desktop\Aplicatie-de-Booking2\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nflor\Desktop\Aplicatie-de-Booking2\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nflor\Desktop\Aplicatie-de-Booking2\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nflor\Desktop\Aplicatie-de-Booking2\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nflor\Desktop\Aplicatie-de-Booking2\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nflor\Desktop\Aplicatie-de-Booking2\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nflor\Desktop\Aplicatie-de-Booking2\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nflor\Desktop\Aplicatie-de-Booking2\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nflor\Desktop\Aplicatie-de-Booking2\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nflor\Desktop\Aplicatie-de-Booking2\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nflor\Desktop\Aplicatie-de-Booking2\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\nflor\Desktop\Aplicatie-de-Booking2\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\nflor\Desktop\Aplicatie-de-Booking2\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nflor\Desktop\Aplicatie-de-Booking2\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nflor\Desktop\Aplicatie-de-Booking2\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nflor\Desktop\Aplicatie-de-Booking2\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nflor\Desktop\Aplicatie-de-Booking2\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\nflor\Desktop\Aplicatie-de-Booking2\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\nflor\Desktop\Aplicatie-de-Booking2\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\nflor\Desktop\Aplicatie-de-Booking2\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\nflor\Desktop\Aplicatie-de-Booking2\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\nflor\Desktop\Aplicatie-de-Booking2\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\nflor\Desktop\Aplicatie-de-Booking2\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll

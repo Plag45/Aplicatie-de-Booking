@@ -4,9 +4,16 @@
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
     xmlns:local="clr-namespace:Aplicatie_de_Booking"
     xmlns:views="clr-namespace:Aplicatie_de_Booking.Views"
-    StartupUri="Views/LoginView.xaml">
+    StartupUri="MainWindow.xaml">
+
     <Application.Resources>
-        <ResourceDictionary Source="/Style/UIColors.xaml" />
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="/Style/UIColors.xaml"/>
+                <ResourceDictionary Source="/Style/ButtonStyles.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+
+        </ResourceDictionary>
     </Application.Resources>
 
 </Application>

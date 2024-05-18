@@ -1,5 +1,6 @@
-Host: sql11.freesqldatabase.com
-Database name: sql11695784
-Database user: sql11695784
-Database password: g57d3nlCGE
-Port number: 3306
+Accessing Azure SQL Database from Azure Function
+Server=tcp:eazybooking.database.windows.net,1433;Initial Catalog=EazyBooking;Persist Security Info=False;User ID=AdminNita;Password={Costina123};MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;
+```
+server name: eazybooking.database.windows.net 
+user name: AdminNita
+password: Costina123

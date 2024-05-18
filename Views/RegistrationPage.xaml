@@ -17,7 +17,7 @@
 
     <Border CornerRadius="12">
         <Border.Background>
-            <ImageBrush ImageSource="C:\prod\Aplicatie-de-Booking\Aplicatie-de-Booking1\Images\logo.png" Stretch="None" />
+            <ImageBrush ImageSource="\Images\logo.png" Stretch="None" />
         </Border.Background>
 
         <Border
@@ -165,7 +165,7 @@
                         <TextBox.Background>
                             <ImageBrush
                                AlignmentX="Left"
-                               ImageSource="C:\prod\Aplicatie-de-Booking\Aplicatie-de-Booking1\Images\user-icon.png"
+                               ImageSource="\Images\user-icon.png"
                                Stretch="None" />
                         </TextBox.Background>
                     </TextBox>
@@ -195,7 +195,7 @@
                         <TextBox.Background>
                             <ImageBrush
                                    AlignmentX="Left"
-                                   ImageSource="C:\prod\Aplicatie-de-Booking\Aplicatie-de-Booking1\Images\emaill.png"
+                                   ImageSource="\Images\emaill.png"
                                    Stretch="None" />
                         </TextBox.Background>
                     </TextBox>
@@ -225,7 +225,7 @@
                         <TextBox.Background>
                             <ImageBrush
                                    AlignmentX="Left"
-                                   ImageSource="C:\prod\Aplicatie-de-Booking\Aplicatie-de-Booking1\Images\user-icon.png"
+                                   ImageSource="\Images\user-icon.png"
                                    Stretch="None" />
                         </TextBox.Background>
                     </TextBox>
@@ -262,7 +262,8 @@
                             Cursor="Hand"
                             FontFamily="Montserrat"
                             FontSize="12"
-                            Foreground="White">
+                            Foreground="White"
+                        Click="btnRegistration_Click">
 
                         <Button.Style>
                             <Style TargetType="Button">

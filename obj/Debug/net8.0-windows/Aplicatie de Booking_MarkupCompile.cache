@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\d\Facultate\App-V\Aplicatie de Booking\obj\Debug\net8.0-windows\
+C:\Users\nflor\Desktop\Aplicatie-de-Booking2\obj\Debug\net8.0-windows\
 Aplicatie_de_Booking
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
-C:\d\Facultate\App-V\Aplicatie de Booking\App.xaml
-6392556558
+C:\Users\nflor\Desktop\Aplicatie-de-Booking2\App.xaml
+91331062394
 
-22-1834435022
-198915248976
-MainWindow.xaml;Style\UIColors.xaml;Views\LoginView.xaml;Views\MainView.xaml;Views\MakeRezervationView.xaml;Views\RezervationListingView.xaml;
+36458057884
+230-1000910048
+MainWindow.xaml;Style\ButtonStyles.xaml;Style\Page-Standard.xaml;Style\UIColors.xaml;Views\LoginView.xaml;Views\MainView.xaml;Views\MakeReservation.xaml;Views\RegistrationPage.xaml;Views\RezervationListingView.xaml;
 
-True
+False
 

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.Data.SqlClient;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -37,7 +38,50 @@ namespace Aplicatie_de_Booking.Views
 
         private void btnClose_Click(object sender, RoutedEventArgs e)
         {
-            Application.Current.Shutdown();
+            this.Close();
+        }
+
+        private void btnRegistration_Click(object sender, RoutedEventArgs e)
+        {
+           
+            string username = txtUser.Text;
+            string email = txtEmail.Text;
+            string Name = txtName.Text;
+            string Password = txtPassword.Password;
+
+
+            
+            string connectionString = "Server=tcp:eazybooking.database.windows.net,1433;Initial Catalog=EazyBooking;Persist Security Info=False;User ID=AdminNita;Password=Costina123;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;";
+
+            // SQL query to insert data
+            string query = "INSERT INTO Users (Username, Email, Name, Password) VALUES (@Username, @Email, @Name, @Password)";
+
+            // Create and open a connection to SQL Server
+            using (SqlConnection connection = new SqlConnection(connectionString))
+            {
+                // Create a SqlCommand object
+                using (SqlCommand command = new SqlCommand(query, connection))
+                {
+                    // Define the parameters and their values
+                    command.Parameters.AddWithValue("@Username", username);
+                    command.Parameters.AddWithValue("@Email", email);
+                    command.Parameters.AddWithValue("@Name", Name);
+                    command.Parameters.AddWithValue("@Password", Password);
+
+                    // Open the connection to the database
+                    connection.Open();
+
+                    // Execute the command
+                    command.ExecuteNonQuery();
+
+                    // Close the connection
+                    connection.Close();
+                    MessageBox.Show("Te-ai înregistrat cu succes");
+                    this.Close();
+                }
+            }
+
+            
         }
     }
 }

@@ -15,7 +15,7 @@
 
     <Border CornerRadius="12">
         <Border.Background>
-            <ImageBrush ImageSource="C:\Users\annam\Desktop\Aplicatie-de-Booking\Images\logo.png" Stretch="None" />
+            <ImageBrush ImageSource="\Images\logo.png" Stretch="None" />
         </Border.Background>
 
         <Border BorderThickness="2" CornerRadius="10" Opacity="0.95">
