@@ -75,7 +75,7 @@ namespace Aplicatie_de_Booking.ViewModels
 
         //-> Commands
         public ICommand LoginCommand { get; }
-        public ICommand RecoverPasswordCommand { get; }
+       // public ICommand RecoverPasswordCommand { get; }
         public ICommand ShowPasswordCommand { get; }
         public ICommand RememberPasswordCommand { get; }
 
@@ -84,7 +84,7 @@ namespace Aplicatie_de_Booking.ViewModels
         {
             //  userRepository = new UserRepository();
             LoginCommand = new ViewModelCommand(ExecuteLoginCommand, CanExecuteLoginCommand);
-            RecoverPasswordCommand = new ViewModelCommand(p => ExecuteRecoverPassCommand("", ""));
+       //     RecoverPasswordCommand = new ViewModelCommand(p => ExecuteRecoverPassCommand("", ""));
         }
 
         private bool CanExecuteLoginCommand(object obj)

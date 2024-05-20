@@ -25,7 +25,7 @@ namespace Aplicatie_de_Booking.Views
             }
         }
 
-        private void Window_MouseDown(object sender, MouseButtonEventArgs e)
+        public void Window_MouseDown(object sender, MouseButtonEventArgs e)
         {
             if (e.LeftButton == MouseButtonState.Pressed)
                 DragMove();
@@ -36,12 +36,12 @@ namespace Aplicatie_de_Booking.Views
             WindowState = WindowState.Minimized;
         }
 
-        private void btnClose_Click(object sender, RoutedEventArgs e)
+        public void btnClose_Click(object sender, RoutedEventArgs e)
         {
             Application.Current.Shutdown();
         }
 
-        private void CreatOne_Click(object sender, RoutedEventArgs e)
+        public void CreatOne_Click(object sender, RoutedEventArgs e)
         {
             RegistrationPage _registration = new RegistrationPage();
             _registration.ShowDialog();
