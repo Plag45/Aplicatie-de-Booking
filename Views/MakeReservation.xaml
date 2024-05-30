@@ -11,6 +11,32 @@
 
     <Window.Resources>
         <BooleanToVisibilityConverter x:Key="BooleanToVisibility" />
+        <Style x:Key="CustomButtonStyle" TargetType="Button">
+            <Setter Property="Background" Value="#462AD8" />
+            <Setter Property="Foreground" Value="White" />
+            <Setter Property="FontFamily" Value="Montserrat" />
+            <Setter Property="FontSize" Value="12" />
+            <Setter Property="BorderThickness" Value="0" />
+            <Setter Property="Cursor" Value="Hand" />
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border
+                        Width="150"
+                        Height="40"
+                        Background="{TemplateBinding Background}"
+                        CornerRadius="20">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center" />
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+            <Style.Triggers>
+                <Trigger Property="IsMouseOver" Value="True">
+                    <Setter Property="Background" Value="#28AEED" />
+                </Trigger>
+            </Style.Triggers>
+        </Style>
     </Window.Resources>
 
     <Border CornerRadius="12">
@@ -161,10 +187,10 @@
 
                 <!-- Submit and Cancel Buttons -->
                 <StackPanel Grid.Row="3" Grid.Column="1" Orientation="Horizontal" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="10">
-                    <Button Command="{Binding SubmitCommand}" Content="Submit" Margin="0,0,10,0" />
-                    <Button Command="{Binding CancelCommand}" Content="Cancel">
+                    <Button Command="{Binding SubmitCommand}" Content="Submit" Style="{StaticResource CustomButtonStyle}" Margin="0,0,10,0" />
+                    <Button Command="{Binding CancelCommand}" Content="Cancel" Margin="0,0,10,0">
                         <Button.Style>
-                            <Style BasedOn="{StaticResource {x:Type Button}}" TargetType="Button">
+                            <Style BasedOn="{StaticResource CustomButtonStyle}" TargetType="Button">
                                 <Style.Triggers>
                                     <DataTrigger Binding="{Binding IsSubmitting}" Value="True">
                                         <Setter Property="IsEnabled" Value="False" />
@@ -174,6 +200,7 @@
                         </Button.Style>
                     </Button>
                 </StackPanel>
+
             </Grid>
 
         </Border>
